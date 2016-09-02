@@ -1,0 +1,46 @@
+#wrapper{
+	width: 800px;
+	height: 800px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #1892EE;
+	position: relative;
+	border: 5px solid black;
+}
+
+.square{
+	float:left;
+	border: 0px solid white;
+	background: #bf3eff;
+	opacity: 0.1;
+}
+
+
+h1 {
+	text-align: center;
+	font-family: arial;
+	font-size: 60px;
+}
+
+.button{
+	text-align:center;
+	margin: auto;
+}
+
+button {
+	background-color: #00ced1;
+	font-size: 24px;
+	padding: 10px 24px;
+	border-radius: 12px;
+	text-align: center;
+	color: white;
+	text-decoration:;
+	font-weight:bold;
+}
+
+button:hover {
+    background-color: white; 
+    color: black;
+
+}
